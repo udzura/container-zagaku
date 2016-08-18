@@ -40,5 +40,5 @@ Invoke `haconiwa COMMAND -h' for details.
 
 ## 資料
 
-* お楽しみ
+* https://speakerdeck.com/udzura/the-skelton-of-whales
 
